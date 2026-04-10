@@ -1,1 +1,1 @@
-# psychlogy-tests
+# psychology-tests
